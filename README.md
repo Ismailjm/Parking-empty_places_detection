@@ -1,11 +1,27 @@
-This repository houses a comprehensive solution for detecting empty parking spaces using advanced computer vision techniques. Leveraging a custom-trained YOLOv8 model on a specialized dataset, this system accurately identifies vacant parking spots in real-time. Built with OpenCV for efficient image manipulation, the solution provides robust performance in various parking scenarios.
+# Parking Empty Places Detection
 
-Key Features:
+Detect empty parking spaces using a custom YOLOv8 model trained on a specialized dataset, with image manipulation handled by OpenCV.
 
-  - Custom YOLOv8 model trained on a dedicated dataset for precise parking spot detection.
-  - Real-time processing capabilities for swift identification of vacant spaces.
-  - Integration with OpenCV for effective image manipulation and analysis.
-  - Modular design allowing easy adaptation to different parking environments and camera setups.
-  - Well-documented codebase and clear instructions for seamless implementation and customization.
+This repository provides a comprehensive solution for detecting vacant parking spots in real-time. Leveraging advanced computer vision techniques, the system accurately identifies empty parking spaces, contributing to improved efficiency and convenience in parking management.
 
-Whether for urban parking management or facility optimization, this repository offers a reliable toolset for automating the detection of empty parking spaces, contributing to improved efficiency and convenience.
+## Features
+
+- Custom YOLOv8 model trained on a dedicated dataset
+- Real-time processing capabilities
+- Integration with OpenCV for image manipulation
+- Modular design for easy adaptation to different parking environments
+
+## Usage
+
+To use this system, follow these steps:
+1. Clone the repository.
+2. Install the required dependencies.
+3. Run the main script to start detecting empty parking spaces.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+Special thanks to the contributors and the open-source community for their invaluable support.
