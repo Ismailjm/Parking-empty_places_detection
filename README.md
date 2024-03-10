@@ -18,10 +18,3 @@ To use this system, follow these steps:
 2. Install the required dependencies.
 3. Run the main script to start detecting empty parking spaces.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-Special thanks to the contributors and the open-source community for their invaluable support.
