@@ -7,6 +7,7 @@ img = cv2.imread("PARKING/P2.jpg")
 results = model(img, verbose=False)
 count = 0
 dimensions = []
+
 for r in results:
         for c in r.boxes:
             if model.names[int(c.cls)] == "empty" : 
